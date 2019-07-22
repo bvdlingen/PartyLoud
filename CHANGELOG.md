@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.10 juli 2019 
+
+### :forked: forked
+### :autoinstall_dependency: install dependency's for debian and alike
+
 ## [0.0.9] - 2019-05-06
 ### :new: Added
 - DNS randomization flag
