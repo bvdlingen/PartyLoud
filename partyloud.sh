@@ -14,6 +14,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+sudo apt install curl grep sed awk bc -y
+
 source src/proxy.sh # proxySetup()
 source src/ui.sh # logo() DisplayHelp() center() clearLines() progress()
 source src/tools.sh # getLock() freeLock() SWCheck()
