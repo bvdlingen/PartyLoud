@@ -6,7 +6,7 @@ Partyloud
 Get your privacy back<br>
 Generate fake web browsing and mitigate tracking 
 </p>
-
+<BR><i>dirty hack for Debian and distributions alike - installs dependancies automatically at runtime - assumes superuser do permissions aka sudo </BR></i>
 <div align="center">
   <br />
   <!-- made-with-bash -->
